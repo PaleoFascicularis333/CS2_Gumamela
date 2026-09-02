@@ -27,5 +27,5 @@ Enter y2: 6
 The distance between the two points is: 5
 
 ## Author
-Name: Juan dela Cruz
+Name: Ethan Gerard P. Alova
 Section: 8- Gumamela
